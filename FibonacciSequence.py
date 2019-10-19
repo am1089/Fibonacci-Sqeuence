@@ -1,4 +1,4 @@
-#Fibonaci Sequence
+#Fibonacci Sequence
 
 print('Input a number')
 number = input()
